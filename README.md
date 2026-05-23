@@ -6,7 +6,7 @@ AI/ML Engineer • Full Stack Developer • Building AI Systems
 
 <p align="center">
   <a href="https://github.com/sunnyarya0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Building+with+GenAI+%26+LLMs;FastAPI+%7C+React+Native+%7C+Python;Open+Source+Enthusiast;Shipping+Projects+Every+Week+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Building+with+GenAI+%26+LLMs;FastAPI+%7C+NEXT+JS+%7C+Python;Open+Source+Enthusiast;Shipping+Projects+Every+Week+🚀" />
   </a>
 </p>
 
