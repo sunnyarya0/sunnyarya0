@@ -53,9 +53,9 @@ AI/ML Engineer • Full Stack Developer • Building AI Systems
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnyarya0&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sunnyarya0&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyarya0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sunnyarya0&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
